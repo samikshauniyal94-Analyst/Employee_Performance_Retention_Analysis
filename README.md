@@ -27,6 +27,7 @@ Tools & Technologies
 1. **Clone the repository**
    
    git clone https://github.com/samikshauniyal94-Analyst/Employee_Performance_Retention_Analysis.git
+
    cd  Employee_Performance_Retention_Analysis
   ```
 2. **Open Employee_performance_Analysis.ipynb notebook**
@@ -46,6 +47,7 @@ Tools & Technologies
    
      
   
+
 
 
 
