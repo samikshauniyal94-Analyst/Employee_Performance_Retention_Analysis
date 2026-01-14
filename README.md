@@ -1,4 +1,4 @@
-﻿# 👨🏻‍💻Employee Performance and Retention Analysis
+*﻿# 👨🏻‍💻Employee Performance and Retention Analysis
 
 This project focuses on analysing employee performance and retention patterns within an organisation. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting using Python.
 
@@ -41,12 +41,13 @@ Tools & Technologies
 
       - Data Visualisation and analysis  
   
-3. **Create Project Report and Presentation**
+3. **Create Project Report 
 
       - Create project report
    
      
   
+
 
 
 
